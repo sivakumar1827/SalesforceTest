@@ -1,4 +1,4 @@
-
+@test
 public class AccountProcessorTest {
     public static testmethod void TestAccountProcessorTest() 
     {
